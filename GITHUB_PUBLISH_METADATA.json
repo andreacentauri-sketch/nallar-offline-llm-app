@@ -1,0 +1,15 @@
+{
+  "github_description": "Local-first LLM application with typed API contracts, local-model integration boundaries, architecture, demo, and evaluation documentation.",
+  "github_topics": [
+    "local-llm",
+    "ollama",
+    "fastapi",
+    "python",
+    "ai-engineering",
+    "llm"
+  ],
+  "license": "MANUAL_SELECTION_REQUIRED",
+  "recommended_pin": false,
+  "repository_name": "nallar-offline-llm-app",
+  "visibility": "public_after_manual_security_review"
+}
