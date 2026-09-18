@@ -8,7 +8,7 @@
     "ai-engineering",
     "llm"
   ],
-  "license": "MANUAL_SELECTION_REQUIRED",
+  "license": "MIT",
   "recommended_pin": false,
   "repository_name": "nallar-offline-llm-app",
   "visibility": "public_after_manual_security_review"
